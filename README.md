@@ -23,5 +23,5 @@
 
 <div>
 <!--   <img align="left" src="https://github-readme-stats.vercel.app/api?username=bipulhf&show_icons=true&locale=en" alt="bipulhf" /> -->
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=bipulhf&" alt="bipulhf" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bipulhf&" alt="bipulhf" />
 </div>
